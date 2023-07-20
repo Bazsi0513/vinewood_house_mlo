@@ -1,6 +1,3 @@
--- DOWNLOAD --
-https://discord.gg/kgGrfN7gMW
-
 -- CREDIT -- 
 Author: Horizon Development
 
